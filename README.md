@@ -12,3 +12,9 @@ Fashion recommendation systems play a crucial role in enhancing user experience 
 2. Feature Normalization: Extracted features are normalized for better similarity computation.
 3. Similarity Computation: Recommends items by ranking based on feature similarity.
 4. Customizable Pipeline: Flexible structure to adapt other datasets and models.
+
+
+## Outputs:
+
+<img width="945" alt="image" src="https://github.com/user-attachments/assets/c9274ffb-808a-4830-b007-8d03de81920e">
+
