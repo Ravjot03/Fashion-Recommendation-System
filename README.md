@@ -19,6 +19,6 @@ Fashion recommendation systems play a crucial role in enhancing user experience 
 <img width="945" alt="image" src="https://github.com/user-attachments/assets/c9274ffb-808a-4830-b007-8d03de81920e">
 
 ## Future Enhancements
-Experiment with other pre-trained models like ResNet or InceptionV3.
-Add support for multi-modal recommendations (e.g., combining text and images).
-Improve recommendation speed by optimizing feature extraction and similarity computation.
+- Experiment with other pre-trained models like ResNet or InceptionV3.
+- Add support for multi-modal recommendations (e.g., combining text and images).
+- Improve recommendation speed by optimizing feature extraction and similarity computation.
